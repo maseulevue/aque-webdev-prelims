@@ -1,0 +1,66 @@
+body
+{
+background-color:white;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+#bg
+{
+display: flex;
+}
+
+#row
+{
+display: flex;
+}
+
+#column
+{
+display: flex;
+flex-direction: column;
+}
+
+.box1{
+background-color: pink;
+background-image: url("pexels-lilartsy-1132569.jpg");
+width:70px;
+height:150px;
+margin:1.5px;
+}
+
+.box2{
+background-image: url("pexels-konrads-photo-15852352.jpg");
+width:70px;
+height:70px;
+margin:1.5px;
+}
+
+.box3{
+background-image: url("pexels-_ofarias-g-530112232-16565205.jpg");
+width:70px;
+height:70px;
+margin:1.5px;
+}
+
+.box4{
+background-image: url("miming6.jpg");
+width:70px;
+height:70px;
+margin:1.5px;
+}
+
+.box5{
+background-image: url("miming5.jpg");
+width:100px;
+height:50px;
+margin:1.5px;
+}
+
+.box6{
+background-image: url("miming2.jpg");
+width:70px;
+height:180px;
+margin:1.5px;
+}
